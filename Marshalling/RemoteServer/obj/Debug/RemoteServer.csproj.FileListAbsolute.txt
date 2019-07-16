@@ -1,0 +1,11 @@
+C:\Workspace\Projects\Marshalling\RemoteServer\bin\Debug\RemoteServer.exe.config
+C:\Workspace\Projects\Marshalling\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Workspace\Projects\Marshalling\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Workspace\Projects\Marshalling\RemoteServer\bin\Debug\RemoteObjects.dll
+C:\Workspace\Projects\Marshalling\RemoteServer\bin\Debug\RemoteObjects.pdb
+C:\Workspace\Projects\Marshalling\bin\RemoteServer.exe.config
+C:\Workspace\Projects\Marshalling\bin\RemoteServer.exe
+C:\Workspace\Projects\Marshalling\bin\RemoteServer.pdb
+C:\Workspace\Projects\Marshalling\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Workspace\Projects\Marshalling\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Workspace\Projects\Marshalling\RemoteServer\obj\Debug\RemoteServer.pdb

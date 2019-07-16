@@ -1,0 +1,15 @@
+C:\Workspace\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Workspace\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RemoteClient.exe.config
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\Marshalling.RemoteClient.AddressBook.resources
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\Marshalling.RemoteClient.ContactView.resources
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\Marshalling.RemoteClient.CreateContact.resources
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\Marshalling.RemoteClient.MainWindow.resources
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\RemoteClient.Properties.Resources.resources
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\RemoteClient.csproj.GenerateResource.Cache
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\RemoteClient.exe.licenses
+C:\Workspace\Projects\Marshalling\bin\RemoteClient.exe.config
+C:\Workspace\Projects\Marshalling\bin\RemoteClient.exe
+C:\Workspace\Projects\Marshalling\bin\RemoteClient.pdb
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\RemoteClient.csprojResolveAssemblyReference.cache
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\RemoteClient.exe
+C:\Workspace\Projects\Marshalling\RemoteClient\obj\Debug\RemoteClient.pdb

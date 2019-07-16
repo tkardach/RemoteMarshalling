@@ -1,0 +1,4 @@
+C:\Workspace\Projects\Marshalling\bin\RemoteObjects.dll
+C:\Workspace\Projects\Marshalling\bin\RemoteObjects.pdb
+C:\Workspace\Projects\Marshalling\RemoteObjects\obj\Debug\RemoteObjects.dll
+C:\Workspace\Projects\Marshalling\RemoteObjects\obj\Debug\RemoteObjects.pdb
